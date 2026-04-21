@@ -1,0 +1,9 @@
+[submodule "analysis"]
+	path = analysis
+	url = https://github.com/SkarabGroup/CodeGuardianAnalysisMicroservice.git
+[submodule "account"]
+	path = account
+	url = https://github.com/SkarabGroup/CodeGuardianAccountAdministrationMicroservice.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/SkarabGroup/CodeGuardianFrontend.git
